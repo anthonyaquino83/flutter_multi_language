@@ -1,0 +1,8 @@
+{
+    "@@locale": "es",
+    "helloWorld": "¡Hola Mundo!",
+    "title": "Aplicación de localizaciones",
+    "@title": {
+        "description": "Aplicación de localizaciones"
+    }
+}
