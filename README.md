@@ -1,3 +1,4 @@
 # flutter_multi_language
 
-A new Flutter project.
+Test localization in Flutter apps
+[A new Flutter project.](https://docs.flutter.dev/ui/internationalization)
